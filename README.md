@@ -1,4 +1,4 @@
 # tsarouchi
-(Almost) everything behind [Τσαρούχι Soundsystem](www.tsarouchi.com).
+(Almost) everything behind [Τσαρούχι Soundsystem](http://www.tsarouchi.com).
 ****
-Graphics & Sound Design by [convoitise](twitter.com/EXconvoitise)
+Graphics & Sound Design by [convoitise](https://twitter.com/EXconvoitise)
