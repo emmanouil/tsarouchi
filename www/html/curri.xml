@@ -1,0 +1,50 @@
+<database>
+<person>
+	<alias>convoitise</alias>
+	<role>Graphics and Sound design</role>
+	<location>Paris</location>
+	<since>The Beginning</since>
+	<link>twitter.com/EXconvoitise</link>
+	<img show="true">conv.jpg</img>
+</person>
+<person>
+	<alias>MightyDubKats</alias>
+	<location>Athens</location>
+	<since>The Beginning</since>
+	<img show="false">mdk.jpg</img>
+</person>
+<person>
+	<alias>Epimenides</alias>
+	<role>DJ</role>
+	<location>London</location>
+	<since>2007</since>
+	<img show="true">epi.jpg</img>
+</person>
+<person>
+	<alias>Noisy Fly</alias>
+	<role>Sound Guru</role>
+	<location>Chania</location>
+	<since>2009</since>
+	<img show="true">noisy.jpg</img>
+</person>
+<person>
+	<alias>B-Digital</alias>
+	<role>Turntablism</role>
+	<location>Chania</location>
+	<since>2010</since>
+	<link>pu.url.here</link>
+	<img show="true">bd.jpg</img>
+</person>
+<person>
+	<alias>SubDime</alias>
+	<role>Selectah</role>
+	<location>Chania</location>
+	<since>2014</since>
+</person>
+<person>
+	<alias>Floppy Disc Jockeys</alias>
+	<role>Entertainment</role>
+	<location>Wonderland</location>
+	<since>2525</since>
+</person>
+</database>
